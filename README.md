@@ -1,5 +1,5 @@
 # Today I learned
-Articles or videos I have found interesting.
+Stuff on the Internet I have found interesting / inspiring / beautiful.
 
 # 2018-04-20
 
