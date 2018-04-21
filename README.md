@@ -1,5 +1,5 @@
 # Today I learned
-Stuff on the Internet I have found educating / inspiring / beautiful.
+Stuff on the Internet I have found worth remembering.
 
 # 2018-04-20
 
