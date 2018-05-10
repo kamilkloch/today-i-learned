@@ -1,6 +1,14 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-05-09
+- https://www.self.com/story/whole-grains-antinutrients Why Are People Suddenly Saying That Whole Grains Are Bad for Your Gut?
+- https://www.youtube.com/watch?v=Jdy09y0A4t0 How Gaia Changed Astronomy Forever | Space Time
+
+# 2018-05-08
+- http://degoes.net/articles/effects-without-transformers No More Transformers: High-Performance Effects in Scalaz 8
+- https://alexn.org/blog/2018/05/06/bifunctor-io.html On Bifunctor IO and Java's Checked Exceptions
+
 # 2018-04-20
 
 - https://www.ctheu.com/2018/04/12/an-ode-to-the-kind-projector-and-to-the-partial-unification-of-scala/ An ode to the kind-projector and to the partial-unification of Scala
