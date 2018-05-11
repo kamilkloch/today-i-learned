@@ -3,6 +3,7 @@ Stuff on the Internet I have found worth remembering.
 
 # 2018-05-11
 - https://medium.com/graalvm/graalvm-ten-things-12d9111f307d Top 10 Things To Do With GraalVM
+- https://www.infoq.com/presentations/tensorflow-ml TensorFlow: Pushing the ML Boundaries. Magnus Hyttsten from Google. Great talk.
 
 # 2018-05-09
 - https://www.self.com/story/whole-grains-antinutrients Why Are People Suddenly Saying That Whole Grains Are Bad for Your Gut?
