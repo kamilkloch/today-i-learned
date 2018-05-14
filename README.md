@@ -1,6 +1,9 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-05-14
+- http://www.janvsmachine.net/2016/07/effective-typesafe-config.html Effective Typesafe Config
+
 # 2018-05-11
 - https://medium.com/graalvm/graalvm-ten-things-12d9111f307d Top 10 Things To Do With GraalVM
 - https://www.infoq.com/presentations/tensorflow-ml TensorFlow: Pushing the ML Boundaries. Magnus Hyttsten from Google. Great talk.
