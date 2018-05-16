@@ -3,6 +3,7 @@ Stuff on the Internet I have found worth remembering.
 
 # 2018-05-16
 - https://github.com/sgreben/jp Dead simple terminal plots from JSON (or CSV) data. Bar charts, line charts, scatter plots, histograms and heatmaps.
+- https://svs.gsfc.nasa.gov/4619 Tour of the Moon 4K Redux
 
 # 2018-05-14
 - http://www.janvsmachine.net/2016/07/effective-typesafe-config.html Effective Typesafe Config
