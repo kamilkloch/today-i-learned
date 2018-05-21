@@ -1,6 +1,9 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-05-21
+- https://speakerdeck.com/alexandru/cancelable-io Cancelable IO by Alexandru Nedelcu
+
 # 2018-05-17
 - https://www.slideshare.net/Odersky/preparing-for-scala-3 Preparing for Scala 3
 
