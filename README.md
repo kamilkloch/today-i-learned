@@ -1,6 +1,9 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-05-24
+- https://youtu.be/sFGnFKMSmL0 scalaz 8: A whole new game (John A. De Goes)
+
 # 2018-05-21
 - https://speakerdeck.com/alexandru/cancelable-io Cancelable IO by Alexandru Nedelcu
 
