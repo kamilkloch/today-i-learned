@@ -1,6 +1,9 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-05-31
+- https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/ Ten Rules for Negotiating a Job Offer
+
 # 2018-05-29
 - https://kubuszok.com/2018/relearn-your-sbt/ Relearn your sbt
 
