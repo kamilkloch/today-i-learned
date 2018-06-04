@@ -1,6 +1,9 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-06-04
+- https://medium.com/@hicryptocat/how-to-get-rich-without-getting-lucky-113afad5d117 How to Get Rich (without getting lucky)
+
 # 2018-05-31
 - https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/ Ten Rules for Negotiating a Job Offer
 - https://haseebq.com/how-not-to-bomb-your-offer-negotiation/ How Not to Bomb Your Offer Negotiation
