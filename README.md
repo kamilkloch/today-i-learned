@@ -1,6 +1,9 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-06-05
+- https://www.slideshare.net/jdegoes/blazing-fast-pure-effects-without-monads-lambdaconf-2018 Blazing Fast, Pure Effects without Monads — John De Goes, LambdaConf 2018
+
 # 2018-06-04
 - https://medium.com/@hicryptocat/how-to-get-rich-without-getting-lucky-113afad5d117 How to Get Rich (without getting lucky)
 - https://www.youtube.com/watch?v=jwG_qR6XmDQ Jeff Bezos about minimizing regrets: try or you'll always regret it
