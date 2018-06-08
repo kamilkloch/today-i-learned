@@ -1,6 +1,10 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-06-08
+- https://github.com/fosskers/scala-benchmarks An independent set of benchmarks for testing common Scala idioms.
+- https://medium.com/@DayanaHappyBody/naval-ravikant-notes-from-periscope-on-his-tweet-storm-how-to-get-rich-without-getting-lucky-e9e4f03a955f Naval Ravikant / Notes from Periscope on his Tweet storm “How to Get Rich (without getting lucky)
+
 # 2018-06-05
 - https://www.slideshare.net/jdegoes/blazing-fast-pure-effects-without-monads-lambdaconf-2018 Blazing Fast, Pure Effects without Monads — John De Goes, LambdaConf 2018
 
