@@ -3,6 +3,7 @@ Stuff on the Internet I have found worth remembering.
 
 # 2018-06-11
 - https://kubuszok.com/2018/sbt-tips-and-tricks/ sbt tips and tricks
+- https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c Thread Pools (gist by @djspiewak)
 
 # 2018-06-08
 - https://github.com/fosskers/scala-benchmarks An independent set of benchmarks for testing common Scala idioms.
