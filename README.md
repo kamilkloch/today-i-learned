@@ -1,6 +1,9 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-06-11
+- https://kubuszok.com/2018/sbt-tips-and-tricks/ sbt tips and tricks
+
 # 2018-06-08
 - https://github.com/fosskers/scala-benchmarks An independent set of benchmarks for testing common Scala idioms.
 - https://medium.com/@DayanaHappyBody/naval-ravikant-notes-from-periscope-on-his-tweet-storm-how-to-get-rich-without-getting-lucky-e9e4f03a955f Naval Ravikant / Notes from Periscope on his Tweet storm “How to Get Rich (without getting lucky)
