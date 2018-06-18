@@ -1,6 +1,10 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-06-18
+- https://www.scala-lang.org/blog/2017/05/30/tribulations-canbuildfrom.html Tribulations of CanBuildFrom
+- https://www.scala-lang.org/blog/2018/06/13/scala-213-collections.html Scala 2.13’s Collections
+
 # 2018-06-17
 - https://www.youtube.com/watch?v=UeyGHhYJqG4 Cancelable IO – Alexandru Nedelcu
 
