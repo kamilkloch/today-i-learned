@@ -1,6 +1,9 @@
 # Today I learned
 Stuff on the Internet I have found worth remembering.
 
+# 2018-06-17
+- https://www.youtube.com/watch?v=UeyGHhYJqG4 Cancelable IO – Alexandru Nedelcu
+
 # 2018-06-12 
 - https://remoteonly.org/ Remote only
 
