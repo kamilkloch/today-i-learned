@@ -1,5 +1,8 @@
 # Today I learned
-Stuff on the Internet I have found worth remembering.
+Things worth remembering.
+
+# 2018-08-25
+- https://www.youtube.com/watch?v=Ja9D0kpksxw IOHK | Cardano whiteboard; overview with Charles Hoskinson
 
 # 2018-06-18
 - https://www.scala-lang.org/blog/2017/05/30/tribulations-canbuildfrom.html Tribulations of CanBuildFrom
