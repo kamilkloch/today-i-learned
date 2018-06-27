@@ -1,6 +1,9 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-06-27
+- https://slideslive.com/38908127/compiling-scala-faster-with-graalvm Compiling Scala Faster with GraalVM
+
 # 2018-08-25
 - https://www.youtube.com/watch?v=Ja9D0kpksxw IOHK | Cardano whiteboard; overview with Charles Hoskinson
 
