@@ -1,10 +1,13 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-07-02
+- https://github.com/scalaz/scalaz-plugin A compiler plugin that will improve on the scala compiler on the assumption that the user is using the Scalazzi-safe subset of Scala.
+
 # 2018-06-27
 - https://slideslive.com/38908127/compiling-scala-faster-with-graalvm Compiling Scala Faster with GraalVM
 
-# 2018-08-25
+# 2018-06-25
 - https://www.youtube.com/watch?v=Ja9D0kpksxw IOHK | Cardano whiteboard; overview with Charles Hoskinson
 
 # 2018-06-18
