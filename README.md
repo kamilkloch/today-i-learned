@@ -1,7 +1,8 @@
 # Today I learned
 Things worth remembering.
 
-# 2018-07-09 https://www.youtube.com/watch?time_continue=2044&v=v8IQ-X2HkGE Keynote: The Last Hope for Scala's Infinity War - John A. De Goes
+# 2018-07-09 
+- https://www.youtube.com/watch?time_continue=2044&v=v8IQ-X2HkGE Keynote: The Last Hope for Scala's Infinity War - John A. De Goes
 
 # 2018-07-02
 - https://github.com/scalaz/scalaz-plugin A compiler plugin that will improve on the scala compiler on the assumption that the user is using the Scalazzi-safe subset of Scala.
