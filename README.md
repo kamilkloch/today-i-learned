@@ -1,6 +1,9 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-07-12
+- https://www.youtube.com/watch?v=9liCkM3bDig What Haskell taught us when we were not looking - Eric Torreborre. Great talk.
+
 # 2018-07-09 
 - https://www.youtube.com/watch?time_continue=2044&v=v8IQ-X2HkGE Keynote: The Last Hope for Scala's Infinity War - John A. De Goes
 
