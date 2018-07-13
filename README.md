@@ -2,6 +2,9 @@
 Things worth remembering.
 
 # 2018-07-12
+- https://youtu.be/g_JyHJ20Iog ReactSphere: Reactive programming: lessons learned by Tomasz Nurkiewicz
+
+# 2018-07-12
 - https://www.youtube.com/watch?v=9liCkM3bDig What Haskell taught us when we were not looking - Eric Torreborre. Great talk.
 
 # 2018-07-09 
