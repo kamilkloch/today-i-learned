@@ -1,6 +1,9 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-07-14
+- https://www.reddit.com/r/scala/comments/8ygjcq/can_someone_explain_to_me_the_benefits_of_io/ Can someone explain to me the benefits of IO? on Reddit.
+
 # 2018-07-12
 - https://youtu.be/g_JyHJ20Iog ReactSphere: Reactive programming: lessons learned by Tomasz Nurkiewicz
 
