@@ -4,6 +4,7 @@ Things worth remembering.
 # 2018-08-15
 - https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early/ Types: Never commit too early
 - https://typelevel.org/blog/2018/05/09/tagless-final-streaming.html Tagless Final algebras and Streaming
+- https://www.beyondthelines.net/programming/introduction-to-tagless-final/ Introduction to Tagless final
 
 # 2018-07-19
 - https://www.youtube.com/watch?v=lT6e8uWn1Os IOHK: What is Proof of Stake?
