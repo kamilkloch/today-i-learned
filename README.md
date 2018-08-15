@@ -1,6 +1,9 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-08-15
+- https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early/ Types: Never commit too early
+
 # 2018-07-19
 - https://www.youtube.com/watch?v=lT6e8uWn1Os IOHK: What is Proof of Stake?
 
