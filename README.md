@@ -1,6 +1,9 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-08-16
+- http://blog.alexander-semenov.com/monadic-abstraction Structuring real-world code using monadic abstractions
+
 # 2018-08-15
 - https://www.sderosiaux.com/articles/2018/08/15/types-never-commit-too-early/ Types: Never commit too early
 - https://typelevel.org/blog/2018/05/09/tagless-final-streaming.html Tagless Final algebras and Streaming
