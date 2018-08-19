@@ -1,6 +1,9 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-08-19
+- https://medium.com/@sderosiaux/why-referential-transparency-matters-7c179424dab5 Why Referential Transparency matters?
+
 # 2018-08-16
 - http://blog.alexander-semenov.com/monadic-abstraction Structuring real-world code using monadic abstractions
 
