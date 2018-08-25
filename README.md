@@ -1,6 +1,9 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-08-25 
+- https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001 Are Scala Futures the past?
+
 # 2018-08-19
 - https://medium.com/@sderosiaux/why-referential-transparency-matters-7c179424dab5 Why Referential Transparency matters?
 
