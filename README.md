@@ -1,6 +1,10 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-08-26 
+- https://www.youtube.com/watch?v=E9iRYNuTIYA Advanced Tagless Final - Saying farewell to Free (Luka Jacobowitz)
+- https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20 Overcoming type erasure in Scala
+
 # 2018-08-25 
 - https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001 Are Scala Futures the past?
 
