@@ -2,6 +2,9 @@
 Things worth remembering.
 
 # 2018-08-26 
+- https://www.reddit.com/r/scala/comments/8ygjcq/can_someone_explain_to_me_the_benefits_of_io/e2jfrg8/ Can someone explain to me the benefits of IO? Glorious explanation from Fabio Labella
+
+# 2018-08-26 
 - https://www.youtube.com/watch?v=E9iRYNuTIYA Advanced Tagless Final - Saying farewell to Free (Luka Jacobowitz)
 - https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20 Overcoming type erasure in Scala
 
