@@ -1,7 +1,7 @@
 # Today I learned
 Things worth remembering.
 
-# 2018-08-26 
+# 2018-08-27
 - https://www.reddit.com/r/scala/comments/8ygjcq/can_someone_explain_to_me_the_benefits_of_io/e2jfrg8/ Can someone explain to me the benefits of IO? Glorious explanation from Fabio Labella
 
 # 2018-08-26 
