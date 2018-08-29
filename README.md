@@ -1,6 +1,9 @@
 # Today I learned
 Things worth remembering.
 
+# 2018-08-29
+- https://medium.com/@sderosiaux/a-guide-to-introduce-scala-in-a-java-world-327b932699b4 A guide to introduce Scala in a Java world
+
 # 2018-08-27
 - https://www.reddit.com/r/scala/comments/8ygjcq/can_someone_explain_to_me_the_benefits_of_io/e2jfrg8/ Can someone explain to me the benefits of IO? Glorious explanation from Fabio Labella
 
