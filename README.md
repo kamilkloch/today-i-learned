@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-09-25
+- https://kubuszok.com/compiled/kinds-of-types-in-scala/ Kind of Types in Scala
+
 # 2018-09-16
 - https://www.youtube.com/watch?v=1h11efA4k8E scale.bythebay.io: Luka Jacobowitz, Building a Tagless Final DSL for WebGL in Scala
 
