@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-10-15
+- https://www.youtube.com/watch?time_continue=181&v=x3GLwl1FxcA Compose your program flow with Stream - Fabio Labella
+
 # 2018-09-25
 - https://kubuszok.com/compiled/kinds-of-types-in-scala/ Kind of Types in Scala
 
