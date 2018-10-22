@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-10-22
+- https://github.com/mmenestret/fp-ressources Curated list of great Scala oriented (but not always) Functionnal Programming resources
+
 # 2018-10-15
 - https://www.youtube.com/watch?time_continue=181&v=x3GLwl1FxcA Compose your program flow with Stream - Fabio Labella
 
