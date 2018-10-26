@@ -1,6 +1,9 @@
 # Today I learned
 
 # 2018-10-25
+- https://akmetiuk.com/posts/2017-03-10-matryoshka-intro.html Introduction to Recursion Schemes with Matryoshka
+
+# 2018-10-25
 - https://www.youtube.com/watch?v=UmwV5JGTJz0 Recursion schemes in Scala - Paweł Szulc
 - https://www.youtube.com/watch?v=XZ9nPZbaYfE Peeling the Banana: Recursion Schemes from First Principles - Zainab Ali
 
