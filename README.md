@@ -1,6 +1,9 @@
 # Today I learned
 
-# 2018-10-25
+# 2018-11-01
+- https://github.com/mmenestret/fp-resources/ Curated list of great Scala oriented (but not always) Functional Programming resources
+
+# 2018-10-26
 - https://akmetiuk.com/posts/2017-03-10-matryoshka-intro.html Introduction to Recursion Schemes with Matryoshka
 
 # 2018-10-25
