@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-11-05
+- https://youtu.be/3VQ382QG-y4?list=PLpkHU923F2XFWv-XfVuvWuxq41h21nOPK Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript. (Superb talk)
+
 # 2018-11-01
 - https://github.com/mmenestret/fp-resources/ Curated list of great Scala oriented (but not always) Functional Programming resources
 
