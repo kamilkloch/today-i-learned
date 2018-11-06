@@ -1,5 +1,9 @@
 # Today I learned
 
+# 2018-11-06
+- https://docs.google.com/presentation/d/1a4IAux4tNo7F7mQ6fbzIVPEHxQQ0buD15Cm8vSMJFb0/mobilepresent?slide=id.p Bash for production systems. Survival guide for quality scripts. 
+- https://youtu.be/hzf3hTUKk8U Functional Programming is Terrible by Rúnar Bjarnason
+
 # 2018-11-05
 - https://youtu.be/3VQ382QG-y4?list=PLpkHU923F2XFWv-XfVuvWuxq41h21nOPK Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript. (Superb talk. Github link: https://github.com/glebec/lambda-talk)
 
