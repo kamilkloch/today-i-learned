@@ -1,6 +1,7 @@
 # Today I learned
 
 # 2018-11-06
+- https://www.youtube.com/watch?v=M258zVn4m2M Composable application architecture with reasonably priced monads. Oldie but goodie by Rúnar Bjarnason
 - https://docs.google.com/presentation/d/1a4IAux4tNo7F7mQ6fbzIVPEHxQQ0buD15Cm8vSMJFb0/mobilepresent?slide=id.p Bash for production systems. Survival guide for quality scripts. 
 - https://youtu.be/hzf3hTUKk8U Functional Programming is Terrible by Rúnar Bjarnason
 
