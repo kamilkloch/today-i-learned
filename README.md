@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-11-16
+- http://free.cofree.io/2017/12/27/free/ Free Monoids and Free Monads, Free of Category Theory. Excellent explanation of Free Moniods and Free Monads
+
 # 2018-11-06
 - https://www.youtube.com/watch?v=M258zVn4m2M Composable application architecture with reasonably priced monads. Oldie but goodie by Rúnar Bjarnason on Free Monads
 - https://docs.google.com/presentation/d/1a4IAux4tNo7F7mQ6fbzIVPEHxQQ0buD15Cm8vSMJFb0/mobilepresent?slide=id.p Bash for production systems. Survival guide for quality scripts. 
