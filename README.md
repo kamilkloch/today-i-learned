@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-11-24
+- https://medium.com/@olxc/free-monads-explained-pt-1-a5c45fbdac30 Free Monads Explained (pt 1) Building composable DSLs. Excellent introduction.
+
 # 2018-11-16
 - http://free.cofree.io/2017/12/27/free/ Free Monoids and Free Monads, Free of Category Theory. Excellent explanation of Free Moniods and Free Monads
 
