@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-11-28
+- https://www.youtube.com/watch?v=pvTycwaAmLo Why a monad is a monoid in the category of endofunctors (Chris Birchall); slides: https://slides.com/cb372/why-a-monad-is-a-monoid-in-the-category-of-endofunctors#/
+
 # 2018-11-24
 - https://medium.com/@olxc/free-monads-explained-pt-1-a5c45fbdac30 Free Monads Explained (pt 1) Building composable DSLs. Excellent introduction.
 
