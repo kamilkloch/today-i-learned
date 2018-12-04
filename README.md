@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-12-04
+- https://www.youtube.com/watch?v=cW5RY_x0Pbs Testing in the world of Functional Programming - Luka Jacobowitz
+
 # 2018-11-28
 - https://www.youtube.com/watch?v=pvTycwaAmLo Why a monad is a monoid in the category of endofunctors (Chris Birchall); slides: https://slides.com/cb372/why-a-monad-is-a-monoid-in-the-category-of-endofunctors#/
 
