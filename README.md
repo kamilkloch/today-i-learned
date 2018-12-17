@@ -3,6 +3,9 @@
 # 2018-12-17
 - https://youtu.be/ybXuBXZ8NA0 Lambda World 2018 - Boring use cases for exciting types - Itamar Ravid
 
+# 2018-12-16
+- https://skillsmatter.com/skillscasts/11626-keynote-pushing-types-and-gazing-at-the-stars - Keynote: Pushing Types and Gazing at the Stars by Rob Norris
+
 # 2018-12-04
 - https://www.youtube.com/watch?v=cW5RY_x0Pbs Testing in the world of Functional Programming - Luka Jacobowitz
 
