@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-12-18
+- https://kubuszok.com/2018/the-f-words-functors-and-friends/ The F-words: functor and friends
+
 # 2018-12-17
 - https://youtu.be/ybXuBXZ8NA0 Lambda World 2018 - Boring use cases for exciting types - Itamar Ravid
 
