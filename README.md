@@ -1,6 +1,7 @@
 # Today I learned
 
 # 2018-12-18
+- https://kubukoz.github.io/talks/ocado-concurrency-cats/slides/ Concurrency with Cats
 - https://kubuszok.com/2018/the-f-words-functors-and-friends/ The F-words: functor and friends
 
 # 2018-12-17
