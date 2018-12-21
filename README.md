@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2018-12-21
+- https://skillsmatter.com/skillscasts/12648-types-vs-tests Types vs Tests by Julien Truffaut
+
 # 2018-12-18
 - https://kubukoz.github.io/talks/ocado-concurrency-cats/slides/ Concurrency with Cats
 - https://kubuszok.com/2018/the-f-words-functors-and-friends/ The F-words: functor and friends
