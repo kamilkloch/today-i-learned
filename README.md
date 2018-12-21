@@ -2,6 +2,7 @@
 
 # 2018-12-21
 - https://skillsmatter.com/skillscasts/12648-types-vs-tests Types vs Tests by Julien Truffaut
+- https://skillsmatter.com/skillscasts/12668-neural-network-from-scratch-in-scala Neural Network from Scratch in Scala by Joy Sun
 
 # 2018-12-18
 - https://kubukoz.github.io/talks/ocado-concurrency-cats/slides/ Concurrency with Cats
