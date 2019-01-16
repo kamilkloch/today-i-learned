@@ -1,5 +1,9 @@
 # Today I learned
 
+# 2019-01-16
+- https://www.youtube.com/watch?v=0oVpLdgZqpE FP Scala Meat & Potatoes: HTTP, JSON, & SQL with http4s, Circe, & Doobie
+- https://www.youtube.com/watch?v=urdtmx4h5LE http4s: pure, typeful, functional HTTP in Scala – Ross Baker. Amazing talk.
+
 # 2018-12-21
 - https://skillsmatter.com/skillscasts/12648-types-vs-tests Types vs Tests by Julien Truffaut
 - https://skillsmatter.com/skillscasts/12668-neural-network-from-scratch-in-scala Neural Network from Scratch in Scala by Joy Sun
