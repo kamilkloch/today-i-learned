@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2019-01-20
+- https://www.youtube.com/watch?v=YSN__0VEsaw Declarative Control Flow with fs2 Stream – Fabio Labella
+
 # 2019-01-16
 - https://www.youtube.com/watch?v=0oVpLdgZqpE FP Scala Meat & Potatoes: HTTP, JSON, & SQL with http4s, Circe, & Doobie
 - https://www.youtube.com/watch?v=urdtmx4h5LE http4s: pure, typeful, functional HTTP in Scala – Ross Baker. Amazing talk.
