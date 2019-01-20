@@ -2,6 +2,7 @@
 
 # 2019-01-20
 - https://www.youtube.com/watch?v=YSN__0VEsaw Declarative Control Flow with fs2 Stream – Fabio Labella
+- https://algorithmsoup.wordpress.com/2019/01/15/breaking-an-unbreakable-code-part-1-the-hack/ The (Almost) Secret Algorithm Researchers Used to Break Thousands of RSA Keys
 
 # 2019-01-16
 - https://www.youtube.com/watch?v=0oVpLdgZqpE FP Scala Meat & Potatoes: HTTP, JSON, & SQL with http4s, Circe, & Doobie
