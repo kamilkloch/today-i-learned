@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2019-02-19
+- https://kubuszok.com/2018/different-ways-to-understand-a-monad/ Different ways to understand a monad. An excellent read.
+
 # 2019-01-20
 - https://www.youtube.com/watch?v=YSN__0VEsaw Declarative Control Flow with fs2 Stream – Fabio Labella
 - https://algorithmsoup.wordpress.com/2019/01/15/breaking-an-unbreakable-code-part-1-the-hack/ The (Almost) Secret Algorithm Researchers Used to Break Thousands of RSA Keys
