@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2019-03-05
+- https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d Final Tagless seen alive
+
 # 2019-02-19
 - https://kubuszok.com/2018/different-ways-to-understand-a-monad/ Different ways to understand a monad. An excellent read.
 
