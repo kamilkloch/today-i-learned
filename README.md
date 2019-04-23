@@ -1,7 +1,7 @@
 # Today I learned
 
 # 2019-04-23
-- https://www.youtube.com/watch?time_continue=4177&v=Ucp0TTmvqOE Tesla Autonomy Day
+- https://youtu.be/Ucp0TTmvqOE Tesla Autonomy Day
 
 # 2019-03-05
 - https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d Final Tagless seen alive
