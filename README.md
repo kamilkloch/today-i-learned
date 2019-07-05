@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2019-07-05
+- http://w.pitula.me/presentations/2019-07-lxscala/#/ PRAGMATIC OBJECT-ORIENTED TAGLESS FINAL by W. Pituła
+
 # 2019-04-23
 - https://youtu.be/Ucp0TTmvqOE Tesla Autonomy Day
 
