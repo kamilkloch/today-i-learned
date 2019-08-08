@@ -1,5 +1,8 @@
 # Today I learned
 
+# 2019-08-08
+- https://www.iteratorshq.com/blog/benchmarking-functional-error-handling-in-scala/ Benchmarking Functional Error Handling in Scala
+
 # 2019-07-05
 - http://w.pitula.me/presentations/2019-07-lxscala/#/ PRAGMATIC OBJECT-ORIENTED TAGLESS FINAL by W. Pituła
 
